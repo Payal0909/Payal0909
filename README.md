@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Payal Bhawnani</h1>
 <h3 align="center">A passionate and curious technology enthusiast along with a book lover plus an all round explorer</h3>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **My Skills**
 
 - 🌱 I’m currently learning **ReactJs**
 
