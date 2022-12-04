@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
